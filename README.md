@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/718916902638059570)](https://discord.com/users/718916902638059570)
+
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ofcyourankitt) 
